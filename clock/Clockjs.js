@@ -8,7 +8,8 @@ function led(w,time){
     return time;
 }
 
-#this is comment
+//this is comment
+//this is my local macine comment
 
 function getTime(){
 
